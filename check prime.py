@@ -85,9 +85,9 @@ if num == 1 or num == 2:
     print(num,' is a prime number')
 else:
     while i <= root:
+        iterations += 1
         if num % i == 0:
             c += 1
-            iterations += 1
             print('Not prime')
             break
         i += 1
