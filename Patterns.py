@@ -1,3 +1,4 @@
+#patterns
 '''Write a program to print the Floyd’s triangle.
 1
 2 3
